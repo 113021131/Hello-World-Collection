@@ -8,7 +8,6 @@ A collection of 'Hello, World!' programs in different programming languages—pe
 - Python
 - Java
 - JavaScript
-- Ruby
 
 ## 🤝 Contributing
 
